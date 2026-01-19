@@ -48,5 +48,5 @@ Tools and Technologies
 - Data Visualization (Maps and Charts)
 - GitHub for version control
 
-Notes
+Notes:
 Databricks dashboards are stored as JSON files in the repository for version control. Visual previews of the dashboard can be found in the screenshots folder.
